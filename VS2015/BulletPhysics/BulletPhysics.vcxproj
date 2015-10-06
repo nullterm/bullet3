@@ -369,6 +369,7 @@
     <ProjectGuid>{7FD9E5CB-0B14-4CD5-B32B-B8B10B57AD23}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>BulletPhysics</RootNamespace>
+    <WindowsTargetPlatformVersion>8.1</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
